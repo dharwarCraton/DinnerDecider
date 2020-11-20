@@ -21,6 +21,10 @@ local.properties
 .gradle/
 build/
 settings.gradle
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
 
 
 # Android Studio
